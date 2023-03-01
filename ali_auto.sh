@@ -3,7 +3,7 @@
 # author:kratos
 
 #你自己的refresh_token
-refresh_token="你自己的refresh_token"
+refresh_token="95bc022a9f13411e8d45cc9580cf46eb"
 
 function get_json_value()
 {
